@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "160568167769",
+    "firebase_url": "https://skytalk-31d42.firebaseio.com",
+    "project_id": "skytalk-31d42",
+    "storage_bucket": "skytalk-31d42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160568167769:android:05f04145ef52ef84",
+        "android_client_info": {
+          "package_name": "org.techtown.skytalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160568167769-vgii5vq5q4ihjoh82pv1508nndmmnvh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.techtown.skytalk",
+            "certificate_hash": "beb864404b44333f5441b40385064c4a20839cff"
+          }
+        },
+        {
+          "client_id": "160568167769-9gk9n0m6h0h5d5prka5pg143d4vvv0rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbeZI6Nqg5BXuNxOqR711YX6rJzW1ROYM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160568167769-9gk9n0m6h0h5d5prka5pg143d4vvv0rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
